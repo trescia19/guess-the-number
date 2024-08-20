@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+07:14:22	12684/12684	---MCZ	200	added ('OK')	text/html	date:Tue,%2020%20Aug%202024%2023:14:21%20GMT	https://www.codewithfaraz.com/preview/build-a-number-guessing-game-using-html-css-and-javascript-source-code	C:/Users/BERNALES%20CD%20&%20USB/Downloads/guess%20the%20number/www.codewithfaraz.com/preview/build-a-number-guessing-game-using-html-css-and-javascript-source-code.html	(from )
+07:14:22	88/88	---MCZ	200	added ('OK')	text/plain	etag:W/%2248-62f1fa24-ca92750624527f32;;;%22	https://www.codewithfaraz.com/robots.txt		(from )
